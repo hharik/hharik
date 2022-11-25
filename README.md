@@ -18,9 +18,10 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
 </div>
 
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl45i7f7p015909jtnoh0csvc/stats?cursusId=21&coalitionId=77" alt="hharik's 42 stats" /></a>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hharik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl45i7f7p015909jtnoh0csvc/stats?cursusId=21&coalitionId=77" alt="hharik's 42 stats" /></a>
 
 
